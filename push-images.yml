@@ -1,0 +1,7 @@
+images:
+  mongodb-operator: docker-release-local.artifactory-lvn.broadcom.net/saas-devops/mongodb-operator/mongodb-operator:1.0.0
+  percona-server-mongodb-operator: docker-release-local.artifactory-lvn.broadcom.net/saas-devops/mongodb-operator/percona-server-mongodb-operator:1.3.0
+  percona-server-mongodb-operator-backup: docker-release-local.artifactory-lvn.broadcom.net/saas-devops/mongodb-operator/percona-server-mongodb-operator-backup:1.3.0
+  percona-server-mongodb-operator-mongod40: docker-release-local.artifactory-lvn.broadcom.net/saas-devops/mongodb-operator/percona-server-mongodb-operator-mongod40:1.3.0
+  percona-server-mongodb-operator-pmm: docker-release-local.artifactory-lvn.broadcom.net/saas-devops/mongodb-operator/percona-server-mongodb-operator-pmm:1.3.0
+  pmm-server: docker-release-local.artifactory-lvn.broadcom.net/saas-devops/mongodb-operator/pmm-server:2.2.2
